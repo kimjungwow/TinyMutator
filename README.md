@@ -1,6 +1,7 @@
-# TinyMutator
+# TinyMutator - mutation testing tool for Rust
 
-This project use nightly feature(rustc_private).
+- This project was done in 2020 Spring-CS453(Automated Software Testing) course at KAIST university with [@h2oche](https://github.com/h2oche), [@drumpt](https://github.com/drumpt), and [@kms040411](https://github.com/kms040411).
+- This project uses nightly feature(rustc_private).
 
 ## Usage
 
